@@ -1,0 +1,22 @@
+Jashwanth Kumar
+BTech – Computer Science Engineering
+Reva University, Bengaluru
+
+Profile:
+Computer Science Engineering student and aspiring AI developer focused on software development, machine learning, and practical problem-solving.
+
+Skills:
+- C, C++, Python, JavaScript
+- HTML, CSS, React, Vite
+- NumPy, Pandas, Matplotlib
+- Git, GitHub, VS Code
+
+Projects:
+- Personal Developer Portfolio
+- AI-Powered Application
+- LeetCode Problem Portfolio
+- Data Analysis Project
+- C Programming Projects
+- Full-Stack Web Application
+
+This is a placeholder resume file that can be replaced with a final PDF or updated DOCX document when available.
